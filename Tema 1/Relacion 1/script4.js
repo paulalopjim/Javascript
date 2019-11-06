@@ -1,0 +1,10 @@
+//let a= parseInt(prompt('Escriba un numero'));
+//let b= parseInt(prompt('Escriba otro numero'));
+let a=10;
+let b=3;
+document.write("El valor de a es "+a+"<br>");
+document.write("El valor de b es "+b+"<br>");
+document.write(a+"+"+b+"=" +(a+b)+"<br>");
+document.write(a+"-"+b+"= "+(a-b)+"<br>");
+document.write(a+"*"+b+"= "+(a*b)+"<br>");
+document.write(a+"/"+b+"= "+(a/b)+"<br>");
